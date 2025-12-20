@@ -1,14 +1,15 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://gitee.com/hw2837/iptv/blob/master/iptv.txt
+https://gitee.com/hw2837/iptv/raw/master/iptv.txt
+https://raw.githubusercontent.com/redalert233/iptv-resource/refs/heads/main/xyyd.txt
+https://raw.githubusercontent.com/jjjay001/sy-iptv/refs/heads/main/ShaanxiTV.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/wcb1969/iptv/blob/main/咸阳移动.txt
 
 
 
