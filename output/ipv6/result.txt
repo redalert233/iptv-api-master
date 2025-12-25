@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-25 19:00:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-26 06:59:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1452,7 +1452,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=077dd6fc91cc1b73e1d19c575ea96c97&id=CE
 山东教育,https://migu.188766.xyz/?migutoken=a807bf65a84a6adcbd26a6dd2e482eb4&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 山东居家购物,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 山东农科,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
@@ -1557,6 +1556,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=077dd6fc91cc1b73e1d19c575ea96c97&id=CE
 黑龙江新闻法治,https://ls.qingting.fm/live/4974/64k.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
+哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
@@ -1751,6 +1751,11 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=ee4b0263fa217b298b6b15301f6b3
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://iptv.666230.xyz/iptv/bjyd.php/6553
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
@@ -1954,10 +1959,7 @@ CCTV-5+,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226197/1.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
-青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
-青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
-宝宝动画,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288002/index.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=YanG-1989
 优漫卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
@@ -2033,6 +2035,9 @@ CCTV-15,https://migu.188766.xyz/?migutoken=93c37a7aee624c212c361d4f444622ff&id=C
 音乐广播,https://tv.iill.top/fm/552&token=a1543aac9a440a1cbb3bf7933bd74c328f8b926ddd95a295b6bab0b329f1033d
 
 🏛经典剧场,#genre#
+笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
+笑傲江湖,https://live.iill.top/huya/23865142
+笑傲江湖,http://live.iill.top/yy.php?id=1354282410
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 西游记,https://live.iill.top/huya/26355861
