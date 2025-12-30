@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-30 19:05:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-31 06:57:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1044,6 +1044,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=295dc662d2b6490bb6ce0d801b8ade8e&id=CE
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州明珠,http://goo.bkpcp.top/mg/hzmz
 杭州生活,http://goo.bkpcp.top/mg/hzsh
 杭州影视,http://goo.bkpcp.top/mg/hzys
@@ -1185,8 +1186,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=295dc662d2b6490bb6ce0d801b8ade8e&id=CE
 北京财经,https://migu.188766.xyz/?migutoken=3b923ffde156c2ff8106f10e6ab55fd0&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 
 ☘️上海频道,#genre#
-七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
-七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
 上海外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海新闻综合,https://migu.188766.xyz/?migutoken=4b0e429e357c8240ee5a137134bc9deb&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
@@ -1231,11 +1230,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=295dc662d2b6490bb6ce0d801b8ade8e&id=CE
 上海都市,https://migu.188766.xyz/?migutoken=ee60ba778f5b654a22d9924aac5b9d43&id=shds&type=sz
 上海都市,https://migu.188766.xyz/?migutoken=f6db89034bfc1b2e2d6d51f6b2db552b&id=shds&type=sz
 上海都市,https://migu.188766.xyz/?migutoken=d698a0ac0eeb0122a13ce22d272df7f2&id=shds&type=sz
-东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
-东方影视,http://z.b.bkpcp.top/m.php?id=shys
-东方影视,http://gat.bkpcp.top/ymg.php?id=shys
-东方影视,http://z.b.bkpcp.top/m.php?id=dfys
-东方影视,https://migu.188766.xyz/?migutoken=6c5b70858d0091ce20ea7fe815cabafe&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
 东方财经,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226197/1.m3u8
@@ -1917,6 +1911,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=295dc662d2b6490bb6ce0d801b8ade8e&id=CE
 延边卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 延边卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1745796321&key=ba85da6410cdc8b830d46c3182ad7775
+吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1746307365&key=85abbfb19768c29f883db499d3c1114f
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1746307365&key=3501231d172e510eec2f039a508df51d
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
@@ -1954,6 +1950,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=295dc662d2b6490bb6ce0d801b8ade8e&id=CE
 黑龙江新闻法治,https://ls.qingting.fm/live/4974/64k.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
+哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
@@ -2202,6 +2199,11 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=dc53afed98f99d57fabc61bcf4bb0
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://iptv.666230.xyz/iptv/bjyd.php/6553
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
